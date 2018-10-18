@@ -3,6 +3,6 @@ class Main
     public static void main(String[] args)
     {
         WebsiteDownloader downloader = new WebsiteDownloader();
-        downloader.downloadWebPage("https://stackoverflow.com/");
+        downloader.downloadSimplifiedWebPage("https://www.mathsisfun.com/puzzles/lying-about-their-age.html");
     }
 }
